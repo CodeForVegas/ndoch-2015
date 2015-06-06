@@ -36,5 +36,11 @@ Open data census as done by the Sunlight Foundation:
 
 http://us-city.census.okfn.org/place/vegas`
 
+## City SDK from the Census Bureau
 
+CitySDK is designed with modularity in mind. Are you working on a project and want to include population, income, or any other Census data? Load the Census module! Would you rather tell people where the closest Farmers' Market is? There's a module for that.
+
+http://uscensusbureau.github.io/citysdk/gettingstarted.html
+
+http://uscensusbureau.github.io/citysdk/index.html
 
