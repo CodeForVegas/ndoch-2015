@@ -30,6 +30,11 @@ Year is in YYYY-MM-DD format.
 
 Example: http://curs.es:9000/lat/36.079411233095/lng/-115.02346661800036/distance/5000/startDate/2014-12-16/endDate/2014-12-17
 
+## City Census Data
+
+Open data census as done by the Sunlight Foundation:
+
+http://us-city.census.okfn.org/place/vegas`
 
 
 
